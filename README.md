@@ -5,7 +5,7 @@ VizDoom permite a los investigadores y desarrolladores utilizar el motor del jue
 Para instalar y correr el proyecto descargue la carpeta la carpeta completa y ejecute el programa en el IDE Zinjai.
 
 ### Experimento 1 🔧 
-<img src="https://github.com/YahairaGomez/VizDoom/blob/main/imagenes/experimento1.png">
+<img src="https://github.com/YahairaGomez/VizDoom/blob/main/imagenes/experimento11.png">
 
 
 ### Experimento 2 🔧 
