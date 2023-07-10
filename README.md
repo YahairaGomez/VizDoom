@@ -35,7 +35,7 @@ Si existe.
 
 
 ### Experimento 2 🔧 
-<img src="https://github.com/YahairaGomez/VizDoom/blob/main/imagenes/resultadoCPU.png">
+<img src="https://github.com/YahairaGomez/VizDoom/blob/main/imagenes/resultadoGPU.png">
 
 ## Autores✒️
 
